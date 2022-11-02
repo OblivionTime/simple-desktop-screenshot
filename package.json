@@ -1,0 +1,32 @@
+{
+  "name": "simple-desktop-screenshot",
+  "version": "0.1.0",
+  "description": "跨平台截图模块，使用外部工具,根据node-desktop-screenshot和screenshot-desktop进行改造",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OblivionTime/simple-desktop-screenshot.git"
+  },
+  "author": "solid",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "0.2.x",
+    "pinkie-promise": "^2.0.1",
+    "temp": "^0.9.4"
+  },
+  "keywords": [
+    "screenshot",
+    "screengrab",
+    "screen",
+    "desktop",
+    "laptop",
+    "x11"
+  ],
+  "bugs": {
+    "url": "https://github.com/OblivionTime/simple-desktop-screenshot/issues"
+  },
+  "homepage": "https://github.com/OblivionTime/simple-desktop-screenshot#readme"
+}
